@@ -87,7 +87,7 @@ public class CardTrick {
          //   System.out.println("The number you put is not in the random numbers");
        // }
        
-       System.out.println("Hi, my name is Joanna He. I'm studing Diploma in Computer Programming at Sheridan College!");
+       System.out.println("Hi, my name is Joanna He. I'm studing Diploma in Computer Programming at Sheridan College");
         
     }
     
